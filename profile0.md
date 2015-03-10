@@ -14,25 +14,76 @@ All of us use GitHub frequently, so we wanted to learn more about it since it's 
 ---
 
 - Is the subject of your profile a corporate entity?
+
+    Yes
+
 - What type?
+
+    Corporation (Just Emailed GitHub asking for more detail)
+
 - When was it founded?
+
+    April 10th, 2008
+
 - By whom?
+
+    * Tom Preston-Werner
+
+    * Chris Wanstrath
+
+    * PJ Hyett
+
+---
+
 - Original founder(s) still active?
 
----
+    All of the original founders are still active with the exception of Tom Preston-Werner.
+He left GitHub in 2014 after confirmed [harassment allegations].
 
 - Publicly Traded? Since when? Initial Stock Price? Current stock price?
+
+    No, GitHub is a private corporation.
+
 - Has the company made any acquisitions? If yes, which companies, and what were their core products?
-- Has the company made any investments in other companies? If yes, which ones.
+
+    * Easel - In Browser Web Design Tool Built for Collaboration
+
+    * Ordered List - Gauges, Speaker Deck, Harmony
 
 ---
 
+- Has the company made any investments in other companies? If yes, which ones.
+
+    No. Interestingly enough GitHub's first investment (other->GitHub) was for [$100M]
+
 - Number of Employees?
+
+    267
+
 - Where is HQ?
+
+    88 Colin P Kelly Jr St (at Brannan St), San Francisco, CA 94107, United States
+
+---
+
 - Does it have any other offices or locations?
+
+    No.
+
 - Website?
+
+    [http://github.com](http://github.com)
+
 - Wikipedia?
+
+    [http://en.wikipedia.org/wiki/GitHub](http://en.wikipedia.org/wiki/GitHub)
+
 - Does your organization file any annual reports? Please include links to any relevant documents (i.e. 990, Annual Report, Year in Review, etc...)
+
+    No, GitHub does not have any annual reports.
+
+[harassment allegations]: http://bits.blogs.nytimes.com/2014/04/21/github-founder-resigns-after-investigation/
+[$100M]: http://go.bloomberg.com/tech-deals/2012-07-09-github-takes-100m-in-largest-investment-by-andreessen-horowitz/
 
 # Communications
 
