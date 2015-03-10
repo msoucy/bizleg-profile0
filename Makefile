@@ -17,7 +17,8 @@ PANDOC=pandoc $< -o $@
 
 $(OUTDIR)/%/index.html: %.md
 	mkdir -p $(OUTDIR)/$*
-	$(PANDOC) -t revealjs -s
+	cp -r reveal.js output/$*/
+	$(PANDOC) -t revealjs -s -V theme:solarized --slide-level 2
 
 $(OUTDIR)/%/presentation.pdf: %.md
 	mkdir -p $(OUTDIR)/$*
