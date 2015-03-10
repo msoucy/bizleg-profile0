@@ -46,8 +46,9 @@ All of us use GitHub frequently, so we wanted to learn more about it since it's 
 
 ## Project Name
 
+- Repositories [GitHub](http://github.com/github)
+
 - The project's IRC Channel
-- Source Code repository
 - Mail list archive
 - Documentation
 - Other communication channels
