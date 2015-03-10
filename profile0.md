@@ -27,11 +27,17 @@ All of us use GitHub frequently, so we wanted to learn more about it since it's 
 - Does your organization file any annual reports? Please include links to any relevant documents (i.e. 990, Annual Report, Year in Review, etc...)
 
 # Communications
-
-- Does your subject participate in social media? If yes, please list a URL for each account, and reach within that community. (i.e. <a target="_blank" href="https://twitter.com/redhatnews">Twitter: @RedHatNews</a> - 61.9K Followers.
-- What communication channels does your subject use to reach their public? Briefly describe and include a URL for each.
-- Does your subject organize or participate in any conferences? If so, list them here, and provide links to any relevant sessions, keynotes, or content.
-
+- Social media for GitHub
+    - Twitter: https://twitter.com/github
+    - Twitter: https://twitter.com/githubstatus (Downtime report)
+    - LinkedIn: https://www.linkedin.com/company/github
+- Communications channels for GitHub
+    - GitHub’s press page lists all of their awards that they have received. https://github.com/about/press
+    - GitHub also has a blog that has lots of interesting posts. https://github.com/blog
+    - They also include a Glossary so writes can better report about what the company does. https://help.github.com/articles/github-glossary/
+- GitHub Conference Participation
+    - GitHub hosts “GitHub Universe” which is their own conference about working on open source projects as well as gathering tons of people working in open source. (http://githubuniverse.com/)
+    - GitHub also hosts “CodeConf” a two day conference about open source, best practices, documentation, and collaboration. (http://codeconf.com/)
 # Community Architecture
 Your subject likely runs or contributes to one or more Open Source products or projects. Choose one (or more) of these and answer the following questions:
 
@@ -62,9 +68,21 @@ Your subject likely runs or contributes to one or more Open Source products or p
 
 # Technology/Product (Section adapted from [EFF](EFF) [Worksheet](http://www.teachingcopyright.org/handout/technology-history-worksheet)
 
-
-- Who invented, created, or sponsored the technology?
-- What was the technology designed to do? How was it used?
-- Who would benefit from using this technology?
-- What kinds of companies or organizations (stakeholders) might have been concerned about the development of this technology? Why?
-- Did an aspect of copyright law play a role in controversies about the technology? How?
+- The Technology Behind GitHub
+    - GitHub is powered completely by Git, a distributed source control system.
+        - Contrary to popular belief, Git existed before GitHub. GitHub created a nice visual front end and a great central area for code repos.
+        - Git was originally started by Linus Torvalds, creator of the Linux kernel. 
+        - Created to be a highly distributed SCM, GitHub based their entire product on using Git.
+        - Git was initially started to track the Linux kernel and was then used by other projects.
+        - GitHub now uses git as the tool it uses to track most of their repos and interface with GitHub.
+        - Lots of people interested in working on the same set of files or tracking changes in files could potentially use Git.
+        (http://en.wikipedia.org/wiki/Git_%28software%29)
+---
+- Copyright Law and Creation of Git
+    - The Linux kernel was originally tracked in BitKeeper, a properitary SCM.
+    - Devs of BitKeeper resciended license to use it and the kernel was left in the cold.
+    - Linus became fed up and created his own that would be FOSS so that incident could never happen again.
+- Controversy over GitHub and Copyright.
+    - GitHub is not open source, leading to an ironic situation that one of the most central sites for FOSS software isn’t FOSS itself.
+    - GitHub also has a default license that has been controversial over some of its terms.
+    (http://en.wikipedia.org/wiki/Git_%28software%29)
