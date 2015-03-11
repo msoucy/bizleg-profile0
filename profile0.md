@@ -19,7 +19,7 @@ All of us use GitHub frequently, so we wanted to learn more about it since it's 
 
 - What type?
 
-    Corporation (Just Emailed GitHub asking for more detail)
+    Corporation Registerd in State of Delaware
 
 - When was it founded?
 
