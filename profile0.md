@@ -114,18 +114,23 @@ He left GitHub in 2014 after confirmed [harassment allegations]
 - Is this the kind of structure you would enjoy working in? Why, or why not?
 - This structure is well-suited for this project, but maybe not for a code-based project
 
-# Technology/Product (Section adapted from [EFF](EFF) [Worksheet](http://www.teachingcopyright.org/handout/technology-history-worksheet)
+# Technology/Product
+
+Section adapted from [EFF](EFF) [Worksheet](http://www.teachingcopyright.org/handout/technology-history-worksheet)
 
 ## The Technology Behind GitHub
 
 GitHub is powered completely by [Git][Git Wiki], a distributed source control system.
 
-- Contrary to popular belief, Git existed before GitHub. GitHub created a nice visual front end and a great central area for code repos.
 - Git was originally started by Linus Torvalds, creator of the Linux kernel.
-- Created to be a highly distributed SCM, GitHub based their entire product on using Git.
 - Git was initially started to track the Linux kernel and was then used by other projects.
-- GitHub now uses git as the tool it uses to track most of their repos and interface with GitHub.
 - Lots of people interested in working on the same set of files or tracking changes in files could potentially use Git.
+
+## GitHub Using Git
+
+- Created to be a highly distributed SCM, GitHub based their entire product on using Git.
+- GitHub now uses git as the tool it uses to track most of their repos and interface with GitHub.
+- Contrary to popular belief, Git existed before GitHub. GitHub created a nice visual front end and a great central area for code repos.
 
 ## Copyright Law and Creation of Git
 
