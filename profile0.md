@@ -13,26 +13,53 @@ All of us use GitHub frequently, so we wanted to learn more about it since it's 
 
 ---
 
-- Is the subject of your profile a corporate entity?
-- What type?
-- When was it founded?
-- By whom?
-- Original founder(s) still active?
+- GitHub is a Corporation Registered in the State of Delaware
+
+- GitHub was founded, April 10th, 2008
+
+- GitHub's Founding Fathers:
+
+    * Tom Preston-Werner
+
+    * Chris Wanstrath
+
+    * PJ Hyett
 
 ---
 
-- Publicly Traded? Since when? Initial Stock Price? Current stock price?
-- Has the company made any acquisitions? If yes, which companies, and what were their core products?
-- Has the company made any investments in other companies? If yes, which ones.
+- All of the original founders are still active with the exception of Tom Preston-Werner.
+He left GitHub in 2014 after confirmed [harassment allegations]
+
+- GitHub is a private corporation and isn't publically traded
+
+- GitHub has acquired the following companies:
+
+    * Easel - In Browser Web Design Tool Built for Collaboration
+
+    * Ordered List - Gauges, Speaker Deck, Harmony
 
 ---
 
-- Number of Employees?
-- Where is HQ?
-- Does it have any other offices or locations?
-- Website?
-- Wikipedia?
-- Does your organization file any annual reports? Please include links to any relevant documents (i.e. 990, Annual Report, Year in Review, etc...)
+- GitHub hasn't invested in any other companies
+
+- Interestingly enough GitHub's first investment (other->GitHub) was for [$100M]
+
+- GitHub has 267 employees, some of which work at their HQ:
+
+    88 Colin P Kelly Jr St (at Brannan St), San Francisco, CA 94107, United States
+
+---
+
+- GitHub doesn't have any other locations
+
+- [http://github.com](http://github.com)
+
+- [http://en.wikipedia.org/wiki/GitHub](http://en.wikipedia.org/wiki/GitHub)
+
+- GitHub does not have any annual reports
+
+[harassment allegations]: http://bits.blogs.nytimes.com/2014/04/21/github-founder-resigns-after-investigation/
+[$100M]: http://go.bloomberg.com/tech-deals/2012-07-09-github-takes-100m-in-largest-investment-by-andreessen-horowitz/
 
 # Communications
 
