@@ -13,19 +13,11 @@ All of us use GitHub frequently, so we wanted to learn more about it since it's 
 
 ---
 
-- Is the subject of your profile a corporate entity?
+- GitHub is a Corporation Registered in the State of Delaware
 
-    Yes
+- GitHub was founded, April 10th, 2008
 
-- What type?
-
-    Corporation Registerd in State of Delaware
-
-- When was it founded?
-
-    April 10th, 2008
-
-- By whom?
+- GitHub's Founding Fathers:
 
     * Tom Preston-Werner
 
@@ -35,16 +27,12 @@ All of us use GitHub frequently, so we wanted to learn more about it since it's 
 
 ---
 
-- Original founder(s) still active?
+- All of the original founders are still active with the exception of Tom Preston-Werner.
+He left GitHub in 2014 after confirmed [harassment allegations]
 
-    All of the original founders are still active with the exception of Tom Preston-Werner.
-He left GitHub in 2014 after confirmed [harassment allegations].
+- GitHub is a private corporation and isn't publically traded
 
-- Publicly Traded? Since when? Initial Stock Price? Current stock price?
-
-    No, GitHub is a private corporation.
-
-- Has the company made any acquisitions? If yes, which companies, and what were their core products?
+- GitHub has acquired the following companies:
 
     * Easel - In Browser Web Design Tool Built for Collaboration
 
@@ -52,35 +40,23 @@ He left GitHub in 2014 after confirmed [harassment allegations].
 
 ---
 
-- Has the company made any investments in other companies? If yes, which ones.
+- GitHub hasn't invested in any other companies
 
-    No. Interestingly enough GitHub's first investment (other->GitHub) was for [$100M]
+- Interestingly enough GitHub's first investment (other->GitHub) was for [$100M]
 
-- Number of Employees?
-
-    267
-
-- Where is HQ?
+- GitHub has 267 employees, some of which work at their HQ:
 
     88 Colin P Kelly Jr St (at Brannan St), San Francisco, CA 94107, United States
 
 ---
 
-- Does it have any other offices or locations?
+- GitHub doesn't have any other locations
 
-    No.
+- [http://github.com](http://github.com)
 
-- Website?
+- [http://en.wikipedia.org/wiki/GitHub](http://en.wikipedia.org/wiki/GitHub)
 
-    [http://github.com](http://github.com)
-
-- Wikipedia?
-
-    [http://en.wikipedia.org/wiki/GitHub](http://en.wikipedia.org/wiki/GitHub)
-
-- Does your organization file any annual reports? Please include links to any relevant documents (i.e. 990, Annual Report, Year in Review, etc...)
-
-    No, GitHub does not have any annual reports.
+- GitHub does not have any annual reports
 
 [harassment allegations]: http://bits.blogs.nytimes.com/2014/04/21/github-founder-resigns-after-investigation/
 [$100M]: http://go.bloomberg.com/tech-deals/2012-07-09-github-takes-100m-in-largest-investment-by-andreessen-horowitz/
