@@ -83,46 +83,36 @@ He left GitHub in 2014 after confirmed [harassment allegations]
 
 # Community Architecture
 
-## Project Name
+## Github and Government
 
-- The project's IRC Channel
-- Source Code repository
-- Mail list archive
-- Documentation
-- Other communication channels
-- Project Website and/or Blog
+- Website: <http://government.github.com>
+- Repository: <http://github.com/github/government.github.com>
+- The project is entirely documentation
 
 ---
 
-- Describe the software project, its purpose and goals.
-- Give brief history of the project. When was the Initial Commit? The latest commit?
-- Who approves patches? How many people?
-- Who has commit access, or has had patches accepted?  How many total?
+- `Github and Government` is a website dedicated to sharing open government efforts that involve Github
+- Started January 20, 2013, most recent commit March 5, 2015
+- Two people ([benbalter][] and [jlord][]) accept all of the pull requests
+- [benbalter][] and [jlord][] seem to be the only two maintainers (BDFLs)
+- The original developers have remained with the project the entire time.
+
+[benbalter]: https://github.com/benbalter
+[jlord]: https://github.com/jlord
+
 
 ---
 
-- Has there been any turnover in the Core Team? (i.e. has the top 20% of contributors stayed the same over time? If not, how has it changed?)
-- Does the project have a BDFL, or Lead Developer? (BDFL == Benevolent Dictator for Life)
-- Are the front and back end developers the same people? What is the proportion of each?
-- What have been some of the major bugs/problems/issues that have arisen during development? Who is responsible for quality control and bug repair?
+- Development has been active throughout its lifetime
+- The project would continue fine if one of the two main devs were eaten by a velociraptor
+	- Not if the top 20% of the contributors were in a freak bus accident, though - that includes both BDFLs
+- No onboarding, since most of it is adding information instead of code
 
 ---
 
-- How is the project's participation trending and why?
-- In your opinion, does the project pass "The Raptor Test?" (i.e. Would the project survive if the BDFL, or most active contributor were eaten by a Velociraptor?) Why or why not?
-- In your opinion, would the project survive if the core team, or most active 20% of contributors, were hit by a bus? Why or why not?
-- Does the project have an official "on-boarding" process in place?  (new contributor guides, quickstarts, communication leads who focus specifically on newbies, etc...)
-
----
-
-- Does the project have Documentation available? Is it extensive?  Does it include code examples?
-- If you were going to contribute to this project, but ran into trouble or hit blockers, who would you contact, and how?
-
----
-
-- Based on these answers, how would you describe the decision making structure/process of this group?
-  Is it hierarchical, consensus building, ruled by a small group, barely contained chaos, or ruled by a single or pair of individuals?
+- Ruled by a pair of individuals who try to make sure data is complete and accurate
 - Is this the kind of structure you would enjoy working in? Why, or why not?
+- This structure is well-suited for this project, but maybe not for a code-based project
 
 # Technology/Product (Section adapted from [EFF](EFF) [Worksheet](http://www.teachingcopyright.org/handout/technology-history-worksheet)
 
