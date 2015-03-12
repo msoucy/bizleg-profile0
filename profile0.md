@@ -85,8 +85,9 @@ He left GitHub in 2014 after confirmed [harassment allegations]
 
 ## Project Name
 
+- Repositories [GitHub](http://github.com/github)
+
 - The project's IRC Channel
-- Source Code repository
 - Mail list archive
 - Documentation
 - Other communication channels
