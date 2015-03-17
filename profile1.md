@@ -77,6 +77,15 @@ Your subject likely runs or contributes to one or more Open Source products or p
 - Websites
 	- [Linux Foundation](http://www.linuxfoundation.org/)
 
+- Members
+	- Fujitsu
+	- HP
+	- IBM
+	- Intel
+	- [Members Page](http://www.linuxfoundation.org/about/members)
+
+
+
 
 
 - If applicable, list and provide links to:
