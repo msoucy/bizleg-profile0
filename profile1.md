@@ -77,7 +77,7 @@ Your subject likely runs or contributes to one or more Open Source products or p
 - Websites
 	- [Linux Foundation](http://www.linuxfoundation.org/)
 
-- Members
+- Corporate Members
 	- Fujitsu
 	- HP
 	- IBM
