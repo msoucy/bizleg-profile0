@@ -76,7 +76,6 @@ Your subject likely runs or contributes to one or more Open Source products or p
 
 - Websites
 	- [Linux Foundation](http://www.linuxfoundation.org/)
-	- [Kernel.org](http://www.kernel.org/)
 
 - Bug Tracker
 	- [Bugzilla](https://bugzilla.kernel.org/)
