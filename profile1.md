@@ -1,4 +1,4 @@
-% Profile: COMPANY
+% Profile: Linux Foundation
 % [Matt Soucy](msoucy@csh.rit.edu)
   [Liam Middlebrook](liammiddlebrook@gmail.com)
   [Julien Eid](jeid@csh.rit.edu)
@@ -43,7 +43,7 @@ There are **so** many subjects you could choose to profile, so why did you choos
 
 
 # Communications
-## Social media for COMPANY
+## Social media for The Linux Foundation
 
 - Twitter: <https://twitter.com/linuxfoundation> 167K Followers
 - Google+: <https://plus.google.com/+LinuxfoundationOrg/posts> 30K Followers
