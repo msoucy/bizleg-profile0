@@ -44,9 +44,6 @@ There are **so** many subjects you could choose to profile, so why did you choos
 
 # Communications
 
-<ol>
-</ol>
-
 ## Social media for COMPANY
 
 - Does your subject participate in social media?
