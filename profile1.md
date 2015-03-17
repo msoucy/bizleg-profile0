@@ -51,7 +51,7 @@ There are **so** many subjects you could choose to profile, so why did you choos
 - Youtube: <https://www.youtube.com/user/TheLinuxFoundation> 43K Subscribers
 
 
-## Communications channels for GitHub
+## Communications channels for the Linux Foundation
 
 - The Linux Foundation has a News and Blogs page here with news and other info that they would like to distribute. (<http://www.linuxfoundation.org/news-media/news>)
 - All Linux Foundation announcements can be seen here specifically. (<http://www.linuxfoundation.org/news-media/announcements>)
