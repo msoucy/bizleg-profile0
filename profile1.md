@@ -94,6 +94,15 @@ Your subject likely runs or contributes to one or more Open Source products or p
 - Bus Test
 	- Fail/Pass: Replacement of BoD members requires other BoD members to fill vacancy. If there were no BoD left, there might be some flailing for a bit.
 
+- Linux Kernel
+	- Funded by Linux Foundation
+	- [Kernel.org](http://www.kernel.org/)
+	- [Linux.com](http://www.linux.com/)
+		- [Forums](http://www.linux.com/community/forums)
+	- BDFL - Linus Trovolds
+
+
+
 
 
 
