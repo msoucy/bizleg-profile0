@@ -51,12 +51,12 @@ There are **so** many subjects you could choose to profile, so why did you choos
 - Example:
 	- [Twitter: @RedHatNews](https://twitter.com/redhatnews) - 61.9K Followers.
 
-## Communications channels for GitHub
+## Communications channels for COMPANY
 
 - What communication channels does your subject use to reach their public?
 - Briefly describe and include a URL for each.
 
-## GitHub Conference Participation
+## COMPANY Conference Participation
 
 - Does your subject organize or participate in any conferences?
 - If so, list them here, and provide links to any relevant sessions, keynotes, or content.
