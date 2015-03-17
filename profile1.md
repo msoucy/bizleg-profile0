@@ -82,7 +82,7 @@ Your subject likely runs or contributes to one or more Open Source products or p
 	- HP
 	- IBM
 	- Intel
-	- [Members Page](http://www.linuxfoundation.org/about/members)
+	- [and more](http://www.linuxfoundation.org/about/members)
 
 - Board of directors
 	- [About BOD](http://www.linuxfoundation.org/about/board-members)
