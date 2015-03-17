@@ -77,6 +77,12 @@ Your subject likely runs or contributes to one or more Open Source products or p
 - Websites
 	- [Linux Foundation](http://www.linuxfoundation.org/)
 
+- Membership
+	- Anyone can join
+	- Fee based
+	- Corporate
+	- Individual
+
 - Corporate Members
 	- Fujitsu
 	- HP
