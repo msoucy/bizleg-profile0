@@ -73,6 +73,13 @@ There are **so** many subjects you could choose to profile, so why did you choos
 
 Your subject likely runs or contributes to one or more Open Source products or projects. Choose one (or more) of these and answer the following questions:
 
+
+- Websites
+	- [Linux Foundation](http://www.linuxfoundation.org/)
+	- [Kernel.org](http://www.kernel.org/)
+
+
+
 - If applicable, list and provide links to:
 	- The project's IRC Channel
 	- Source Code repository
