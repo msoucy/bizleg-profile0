@@ -88,7 +88,7 @@ Your subject likely runs or contributes to one or more Open Source products or p
 	- [About BOD](http://www.linuxfoundation.org/about/board-members)
 
 - Raptor Test
-	- Pass: Board of Directors
+	- Pass: Board of Directors with a set process to replace.
 
 
 
