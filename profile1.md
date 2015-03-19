@@ -1,4 +1,4 @@
-% Profile: COMPANY
+% Profile: Linux Foundation
 % [Matt Soucy](msoucy@csh.rit.edu)
   [Liam Middlebrook](liammiddlebrook@gmail.com)
   [Julien Eid](jeid@csh.rit.edu)
@@ -41,26 +41,33 @@ There are **so** many subjects you could choose to profile, so why did you choos
 
 
 # Communications
+## Social media for The Linux Foundation
 
-<ol>
-</ol>
+- Twitter: <https://twitter.com/linuxfoundation> 167K Followers
+- Google+: <https://plus.google.com/+LinuxfoundationOrg/posts> 30K Followers
+- Facebook: <https://www.facebook.com/TheLinuxFoundation> 340K Likes
+- Youtube: <https://www.youtube.com/user/TheLinuxFoundation> 43K Subscribers
 
-## Social media for COMPANY
 
-- Does your subject participate in social media?
-- If yes, please list a URL for each account, and reach within that community.
-- Example:
-	- [Twitter: @RedHatNews](https://twitter.com/redhatnews) - 61.9K Followers.
+## Communications channels for the Linux Foundation
 
-## Communications channels for GitHub
+- The Linux Foundation has a News and Blogs page here with news and other info that they would like to distribute. (<http://www.linuxfoundation.org/news-media/news>)
+- All Linux Foundation announcements can be seen here specifically. (<http://www.linuxfoundation.org/news-media/announcements>)
+- They also keep a list of infographics. (<http://www.linuxfoundation.org/news-media/infographics>)
+- This is a list of all publications the Linux Foundation have, including open source compliance and workshops. (<http://www.linuxfoundation.org/publications>)
+- They also operate a monthly newsletter. (<http://www.linuxfoundation.org/about/stay-connected/newsletter>)
 
-- What communication channels does your subject use to reach their public?
-- Briefly describe and include a URL for each.
+## Linux Foundation Conference Participation
 
-## GitHub Conference Participation
-
-- Does your subject organize or participate in any conferences?
-- If so, list them here, and provide links to any relevant sessions, keynotes, or content.
+- The Linux Foundation hosts **a lot** of conferences. They have 15 conferences planned from March to the end of the year.
+- They also have partner conferences too where they team up with other companies to host conferences. There are at least 12 until the end of the year.
+- They cover a variety of topics, all of which relate to Linux somehow.
+- Some conferences are colocated on the same date and location so that smaller conferences can be booked with larger conferences.
+- Android Builders Summit on March 23rd (<http://events.linuxfoundation.org/events/android-builders-summit>)
+- Embedded Linux Conference on March 23rd (<http://events.linuxfoundation.org/events/embedded-linux-conference>)
+- ApacheCon on April 13th (<http://events.linuxfoundation.org/events/apachecon-north-america>)
+- KVMForum on August 19th (<http://events.linuxfoundation.org/events/kvm-forum>)
+- Annual Linux Kernel Summit on October 26th (<http://events.linuxfoundation.org/events/linux-kernel-summit>)
 
 # Community Architecture
 
@@ -90,16 +97,11 @@ Your subject likely runs or contributes to one or more Open Source products or p
 - Based on these answers, how would you describe the decision making structure/process of this group?  Is it hierarchical, consensus building, ruled by a small group, barely contained chaos, or ruled by a single or pair of individuals?
 - Is this the kind of structure you would enjoy working in? Why, or why not?
 
-
 # Technology/Product
 
-Section adapted from [EFF](EFF) [Worksheet](http://www.teachingcopyright.org/handout/technology-history-worksheet)
-
 ---
-
-- Who invented, created, or sponsored the technology?
-- What is the technology designed to do? How is it used?
-- Who would benefit from using this technology?
-- What kinds of companies or organizations (stakeholders) might have been concerned about the development of this technology? Why?
-- Does/Did an aspect of copyright law play a role in controversies about the technology? How?
-
+- The Linux Foundation is centered around promoting, standardizing, and protecting Linux.
+- Linux is an open source operating system used on tons of platforms ranging from small embedded devices to large clusters of servers.
+- Anyone needing a non-realtime operating system kernel could benefit from using Linux.
+- Massive amounts of companies have a stake in the Linux kernel as well as the Linux Foundation. There are 185 corporate members of the Linux Foundation.
+- One of the main reasons Linux became so popular was that it was open sourced and GPL licensed, which wasn’t common when it was made.
