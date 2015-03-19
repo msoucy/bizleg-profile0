@@ -11,12 +11,21 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <link rel="stylesheet" href="reveal.js/css/reveal.min.css"/>
-    <style type="text/css">code{white-space: pre;}</style>
-    <link rel="stylesheet" href="reveal.js/css/theme/simple.css" id="theme">
-  <link rel="stylesheet" media="print" href="reveal.js/css/print/pdf.css" />
+  <link rel="stylesheet" href="../reveal.js/css/reveal.css"/>
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="../reveal.js/css/theme/solarized.css" id="theme">
+  <!-- If the query includes 'print-pdf', include the PDF print sheet -->
+  <script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+      var link = document.createElement( 'link' );
+      link.rel = 'stylesheet';
+      link.type = 'text/css';
+      link.href = '../reveal.js/css/print/pdf.css';
+      document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+  </script>
   <!--[if lt IE 9]>
-  <script src="reveal.js/lib/js/html5shiv.js"></script>
+  <script src="../reveal.js/lib/js/html5shiv.js"></script>
   <![endif]-->
 </head>
 <body>
@@ -25,10 +34,30 @@
 
 <section>
     <h1 class="title">Profile: GitHub</h1>
-    <h2 class="author"><a href="msoucy@csh.rit.edu">Matt Soucy</a></h2>
-    <h2 class="author"><a href="liammiddlebrook@gmail.com">Liam Middlebrook</a></h2>
-    <h2 class="author"><a href="jeid@csh.rit.edu">Julien Eid</a></h2>
-    <h2 class="author"><a href="adh2380@rit.edu">Aaron Herting</a></h2>
+    <h2 class="author"><script type="text/javascript">
+<!--
+h='&#x63;&#x73;&#104;&#46;&#114;&#x69;&#116;&#46;&#x65;&#100;&#x75;';a='&#64;';n='&#x6d;&#x73;&#x6f;&#x75;&#x63;&#x79;';e=n+a+h;
+document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+'Matt Soucy'+'<\/'+'a'+'>');
+// -->
+</script><noscript>&#x4d;&#x61;&#116;&#116;&#32;&#x53;&#x6f;&#x75;&#x63;&#x79;&#32;&#40;&#x6d;&#x73;&#x6f;&#x75;&#x63;&#x79;&#32;&#x61;&#116;&#32;&#x63;&#x73;&#104;&#32;&#100;&#x6f;&#116;&#32;&#114;&#x69;&#116;&#32;&#100;&#x6f;&#116;&#32;&#x65;&#100;&#x75;&#x29;</noscript></h2>
+    <h2 class="author"><script type="text/javascript">
+<!--
+h='&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;';a='&#64;';n='&#108;&#x69;&#x61;&#x6d;&#x6d;&#x69;&#100;&#100;&#108;&#x65;&#98;&#114;&#x6f;&#x6f;&#x6b;';e=n+a+h;
+document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+'Liam Middlebrook'+'<\/'+'a'+'>');
+// -->
+</script><noscript>&#76;&#x69;&#x61;&#x6d;&#32;&#x4d;&#x69;&#100;&#100;&#108;&#x65;&#98;&#114;&#x6f;&#x6f;&#x6b;&#32;&#40;&#108;&#x69;&#x61;&#x6d;&#x6d;&#x69;&#100;&#100;&#108;&#x65;&#98;&#114;&#x6f;&#x6f;&#x6b;&#32;&#x61;&#116;&#32;&#x67;&#x6d;&#x61;&#x69;&#108;&#32;&#100;&#x6f;&#116;&#32;&#x63;&#x6f;&#x6d;&#x29;</noscript></h2>
+    <h2 class="author"><script type="text/javascript">
+<!--
+h='&#x63;&#x73;&#104;&#46;&#114;&#x69;&#116;&#46;&#x65;&#100;&#x75;';a='&#64;';n='&#106;&#x65;&#x69;&#100;';e=n+a+h;
+document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+'Julien Eid'+'<\/'+'a'+'>');
+// -->
+</script><noscript>&#74;&#x75;&#108;&#x69;&#x65;&#110;&#32;&#x45;&#x69;&#100;&#32;&#40;&#106;&#x65;&#x69;&#100;&#32;&#x61;&#116;&#32;&#x63;&#x73;&#104;&#32;&#100;&#x6f;&#116;&#32;&#114;&#x69;&#116;&#32;&#100;&#x6f;&#116;&#32;&#x65;&#100;&#x75;&#x29;</noscript></h2>
+    <h2 class="author"><script type="text/javascript">
+<!--
+h='&#114;&#x69;&#116;&#46;&#x65;&#100;&#x75;';a='&#64;';n='&#x61;&#100;&#104;&#50;&#x33;&#56;&#48;';e=n+a+h;
+document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+'Aaron Herting'+'<\/'+'a'+'>');
+// -->
+</script><noscript>&#x41;&#x61;&#114;&#x6f;&#110;&#32;&#72;&#x65;&#114;&#116;&#x69;&#110;&#x67;&#32;&#40;&#x61;&#100;&#104;&#50;&#x33;&#56;&#48;&#32;&#x61;&#116;&#32;&#114;&#x69;&#116;&#32;&#100;&#x6f;&#116;&#32;&#x65;&#100;&#x75;&#x29;</noscript></h2>
     <h3 class="date"></h3>
 </section>
 
@@ -72,18 +101,18 @@
 </section><section class="slide level2">
 
 <ul>
-<li><p>GitHub doesn't have any other locations</p></li>
-<li><p><a href="http://github.com">http://github.com</a></p></li>
-<li><p><a href="http://en.wikipedia.org/wiki/GitHub">http://en.wikipedia.org/wiki/GitHub</a></p></li>
-<li><p>GitHub does not have any annual reports</p></li>
+<li>GitHub doesn't have any other locations</li>
+<li><a href="http://github.com">http://github.com</a></li>
+<li><a href="http://en.wikipedia.org/wiki/GitHub">http://en.wikipedia.org/wiki/GitHub</a></li>
+<li>GitHub does not have any annual reports</li>
 </ul>
 </section></section>
 <section><section id="communications" class="titleslide slide level1"><h1>Communications</h1></section><section id="social-media-for-github" class="slide level2">
 <h1>Social media for GitHub</h1>
 <ul>
-<li>Twitter: <a href="https://twitter.com/github">https://twitter.com/github</a></li>
-<li>Twitter: <a href="https://twitter.com/githubstatus">https://twitter.com/githubstatus</a> (Downtime reporting)</li>
-<li>LinkedIn: <a href="https://www.linkedin.com/company/github">https://www.linkedin.com/company/github</a></li>
+<li><a href="https://twitter.com/github">Twitter</a></li>
+<li><a href="https://twitter.com/githubstatus">Twitter</a> (Downtime reporting)</li>
+<li><a href="https://www.linkedin.com/company/github">LinkedIn</a></li>
 </ul>
 </section><section id="communications-channels-for-github" class="slide level2">
 <h1>Communications channels for GitHub</h1>
@@ -166,8 +195,9 @@
     </div>
   </div>
 
-  <script src="reveal.js/lib/js/head.min.js"></script>
-  <script src="reveal.js/js/reveal.min.js"></script>
+
+  <script src="../reveal.js/lib/js/head.min.js"></script>
+  <script src="../reveal.js/js/reveal.js"></script>
 
   <script>
 
@@ -180,15 +210,17 @@
         center: true,
         theme: 'solarized', // available themes are in /css/theme
         transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+        height: 1080,
+        width: 1920,
 
         // Optional libraries used to extend on reveal.js
         dependencies: [
-          { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
-          { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
-          { src: 'reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
-//          { src: 'reveal.js/plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; }, }
-//          { src: 'reveal.js/plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+          { src: '../reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: '../reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+          { src: '../reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
+//          { src: '../reveal.js/plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; }, }
+//          { src: '../reveal.js/plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
 ]});
     </script>
-  </body>
+    </body>
 </html>
