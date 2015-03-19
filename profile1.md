@@ -14,32 +14,30 @@ There are **so** many subjects you could choose to profile, so why did you choos
 
 ---
 
-- Is the subject of your profile a corporate entity?
-- What type?
-- When was it founded?
+- Oregon nonprofit mutual benefit corporation
+- Founded 2000, Incorporated August 9th, 2007
 
 ---
 
-- By whom?
-- Original founder(s) still active?
+- TODO: Info on founders is ***very*** hard to find
+  I've emailed the Foundation asking for information
 
 ---
 
-- Publicly Traded? Since when? Initial Stock Price? Current stock price?
-- Has the company made any acquisitions? If yes, which companies, and what were their core products?
-- Has the company made any investments in other companies? If yes, which ones.
+- Private company
+- No acquisitions
+- "No investments"
+---
+
+- 21 Leaders
+- HQ in San Francisco
+- Also offices in Japan and Korea
 
 ---
 
-- Number of Employees?
-- Where is HQ?
-- Does it have any other offices or locations?
-
----
-
-- Website?
-- Wikipedia?
-- Does your organization file any annual reports? Please include links to any relevant documents (i.e. 990, Annual Report, Year in Review, etc...)
+- [linuxfoundation.org](http://linuxfoundation.org)
+- [Linux Foundation (wikipedia)](http://en.wikipedia.org/wiki/Linux_Foundation)
+- Yearly [Linux Job Reports](http://www.linuxfoundation.org/publications/linux-foundation)
 
 
 # Communications
