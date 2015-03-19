@@ -19,7 +19,7 @@ PANDOC=pandoc $< -o $@
 $(OUTDIR)/reveal.js:
 	cp -r reveal.js $(OUTDIR)/
 
-$(OUTDIR)/%/index.html: %.md
+$(OUTDIR)/%/index.html: %.md templates/default.revealjs
 	mkdir -p $(OUTDIR)/$*
 	$(PANDOC) -t revealjs -s -V theme:solarized -V revealjs-url:../reveal.js --slide-level 2 --data-dir=.
 

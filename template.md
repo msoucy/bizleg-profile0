@@ -1,8 +1,8 @@
 % Profile: COMPANY
-% [Matt Soucy](msoucy@csh.rit.edu)
-  [Liam Middlebrook](liammiddlebrook@gmail.com)
-  [Julien Eid](jeid@csh.rit.edu)
-  [Aaron Herting](adh2380@rit.edu)
+% [Matt Soucy](mailto:msoucy@csh.rit.edu)
+  [Liam Middlebrook](mailto:liammiddlebrook@gmail.com)
+  [Julien Eid](mailto:jeid@csh.rit.edu)
+  [Aaron Herting](mailto:adh2380@rit.edu)
 
 
 ## Rationale

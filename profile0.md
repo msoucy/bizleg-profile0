@@ -1,8 +1,8 @@
 % Profile: GitHub
-% [Matt Soucy](msoucy@csh.rit.edu)
-  [Liam Middlebrook](liammiddlebrook@gmail.com)
-  [Julien Eid](jeid@csh.rit.edu)
-  [Aaron Herting](adh2380@rit.edu)
+% [Matt Soucy](mailto:msoucy@csh.rit.edu)
+  [Liam Middlebrook](mailto:liammiddlebrook@gmail.com)
+  [Julien Eid](<mailto:jeid@csh.rit.edu>)
+  [Aaron Herting](<mailto:adh2380@rit.edu>)
 
 
 ## Rationale
@@ -39,11 +39,8 @@ GitHub is used by an enormous variety of hackers, including us, so we wanted to 
 ---
 
 - GitHub doesn't have any other locations
-
 - [http://github.com](http://github.com)
-
 - [http://en.wikipedia.org/wiki/GitHub](http://en.wikipedia.org/wiki/GitHub)
-
 - GitHub does not have any annual reports
 
 [harassment allegations]: http://bits.blogs.nytimes.com/2014/04/21/github-founder-resigns-after-investigation/
@@ -53,9 +50,9 @@ GitHub is used by an enormous variety of hackers, including us, so we wanted to 
 
 ## Social media for GitHub
 
-- Twitter: <https://twitter.com/github>
-- Twitter: <https://twitter.com/githubstatus> (Downtime reporting)
-- LinkedIn: <https://www.linkedin.com/company/github>
+- [Twitter](https://twitter.com/github)
+- [Twitter](https://twitter.com/githubstatus) (Downtime reporting)
+- [LinkedIn](https://www.linkedin.com/company/github)
 
 ## Communications channels for GitHub
 
