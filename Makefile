@@ -8,6 +8,7 @@ OUTDIR:=output
 default: slides
 
 slides: $(FILES:%.md=$(OUTDIR)/%/index.html)
+slides: $(OUTDIR)/reveal.js
 pdf:    $(FILES:%.md=$(OUTDIR)/%/presentation.pdf)
 latex:  $(FILES:%.md=$(OUTDIR)/%/presentation.tex)
 
@@ -15,10 +16,12 @@ all: clean slides pdf latex
 
 PANDOC=pandoc $< -o $@
 
+$(OUTDIR)/reveal.js:
+	cp -r reveal.js $(OUTDIR)/
+
 $(OUTDIR)/%/index.html: %.md
 	mkdir -p $(OUTDIR)/$*
-	cp -r reveal.js output/$*/
-	$(PANDOC) -t revealjs -s -V theme:solarized --slide-level 2 --data-dir=.
+	$(PANDOC) -t revealjs -s -V theme:solarized -V revealjs-url:../reveal.js --slide-level 2 --data-dir=.
 
 $(OUTDIR)/%/presentation.pdf: %.md
 	mkdir -p $(OUTDIR)/$*
