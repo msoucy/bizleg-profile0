@@ -73,9 +73,25 @@ We wanted to cover the Linux Foundation due to all of us having extensive knowle
 ---
 
 - Linux Standard Base IRC: #lsb@irc.freenode.net
+- [kernel.org](http://kernel.org) (canonical)
 - [Linux Kernel GitHub](https://github.com/torvalds/linux)
 - [Linux Kernel Mailing List Archive](https://lkml.org/)
-- [kernel.org](http://kernel.org)
+
+## Membership
+
+- Anyone can join
+- Fee based
+- Corporate
+- Individual
+
+## Corporate Members
+
+- Fujitsu
+- HP
+- IBM
+- Intel
+- [and more](http://www.linuxfoundation.org/about/members)
+- [About the Board of Directors](http://www.linuxfoundation.org/about/board-members)
 
 ---
 
@@ -87,7 +103,7 @@ We wanted to cover the Linux Foundation due to all of us having extensive knowle
 ---
 
 - Participation is increasing: [YoTLD](http://www.zdnet.com/article/linus-torvalds-still-wants-the-linux-desktop/)
-- Passes Raptor Test (Board of Directors)
+- Passes Raptor Test (Board of Directors, set process to replace)
 - Passes Bus Test (with due chaos)
 - [kernelnewbies.org](http://kernelnewbies.org/)
 
