@@ -73,6 +73,44 @@ There are **so** many subjects you could choose to profile, so why did you choos
 
 Your subject likely runs or contributes to one or more Open Source products or projects. Choose one (or more) of these and answer the following questions:
 
+
+- Websites
+	- [Linux Foundation](http://www.linuxfoundation.org/)
+
+- Membership
+	- Anyone can join
+	- Fee based
+	- Corporate
+	- Individual
+
+- Corporate Members
+	- Fujitsu
+	- HP
+	- IBM
+	- Intel
+	- [and more](http://www.linuxfoundation.org/about/members)
+
+- Board of directors
+	- [About BOD](http://www.linuxfoundation.org/about/board-members)
+
+- Raptor Test
+	- Pass: Board of Directors with a set process to replace.
+
+- Bus Test
+	- Fail/Pass: Replacement of BoD members requires other BoD members to fill vacancy. If there were no BoD left, there might be some flailing for a bit.
+
+- Linux Kernel
+	- Funded by Linux Foundation
+	- [Kernel.org](http://www.kernel.org/)
+	- [Linux.com](http://www.linux.com/)
+		- [Forums](http://www.linux.com/community/forums)
+	- BDFL - Linus Trovolds
+
+
+
+
+
+
 - If applicable, list and provide links to:
 	- The project's IRC Channel
 	- Source Code repository
