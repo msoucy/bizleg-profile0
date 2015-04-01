@@ -7,31 +7,41 @@
 
 ## Rationale
 
-We wanted to cover the Linux Foundation due to all of us having extensive knowledge using Linux. We wanted to know more about what they do due to our use of Linux. We all kind of chose at the same time and all agreed just because we all wanted to know more.
+There are **so** many subjects you could choose to profile, so why did you choose this one?
+What drew you into wanting to know more about the organization?
+How did you/your group decide on and agree?
+
 
 # Organizational Details
 
 ---
 
-- Oregon-based nonprofit mutual benefit corporation
-- Founded 2000, Incorporated August 9th, 2007
-- TODO: Info on founders is ***very*** hard to find
-	- I've emailed the Foundation asking for information
+- Is the subject of your profile a corporate entity?
+- What type?
+- When was it founded?
 
 ---
 
-- Private company
-- No acquisitions
-- **"No investments"**
-- 21 Leaders
-- HQ in San Francisco
-- Also offices in Japan and Korea
+- By whom?
+- Original founder(s) still active?
 
 ---
 
-- [linuxfoundation.org](http://linuxfoundation.org)
-- [Linux Foundation (wikipedia)](http://en.wikipedia.org/wiki/Linux_Foundation)
-- Yearly [Linux Job Reports](http://www.linuxfoundation.org/publications/linux-foundation)
+- Publicly Traded? Since when? Initial Stock Price? Current stock price?
+- Has the company made any acquisitions? If yes, which companies, and what were their core products?
+- Has the company made any investments in other companies? If yes, which ones.
+
+---
+
+- Number of Employees?
+- Where is HQ?
+- Does it have any other offices or locations?
+
+---
+
+- Website?
+- Wikipedia?
+- Does your organization file any annual reports? Please include links to any relevant documents (i.e. 990, Annual Report, Year in Review, etc...)
 
 
 # Communications
@@ -59,44 +69,52 @@ We wanted to cover the Linux Foundation due to all of us having extensive knowle
 - [Maker Faire Bay Area](<http://beagleboard.org/show/makerfairebayarea2015/>)
 - [SCALE](<http://beagleboard.org/show/scale2015/>)
 
+
 # Community Architecture
 
-## Communication Channels
+Your subject likely runs or contributes to one or more Open Source products or projects. Choose one (or more) of these and answer the following questions:
 
-- Linux Standard Base IRC: #lsb@irc.freenode.net
-- [kernel.org](http://kernel.org) (Canonical Repository)
-- [Linux Kernel GitHub](https://github.com/torvalds/linux)
-- [Linux Kernel Mailing List Archive](https://lkml.org/)
+---
 
-## Membership
+- If applicable, list and provide links to:
+	- The project's IRC Channel
+	- Source Code repository
+	- Mail list archive
+	- Documentation
+	- Other communication channels
+	- Project Website and/or Blog
 
-- Anyone can join
-- Fee based
-- Corporate
-- Individual
+---
 
-## Corporate Members
+- Describe the software project, its purpose and goals.
+- Give brief history of the project. When was the Initial Commit? The latest commit?
 
-- Fujitsu
-- HP
-- IBM
-- Intel
-- [and more](http://www.linuxfoundation.org/about/members)
-- [About the Board of Directors](http://www.linuxfoundation.org/about/board-members)
+---
 
-## About
+- Who approves patches? How many people?
+- Who has commit access, or has had patches accepted?  How many total?
+- Has there been any turnover in the Core Team? (i.e. has the top 20% of contributors stayed the same over time? If not, how has it changed?)
+- Does the project have a BDFL, or Lead Developer? (BDFL == Benevolent Dictator for Life)
+- Are the front and back end developers the same people? What is the proportion of each?
 
-- Distribute the Linux kernel and other Open Source software to the public without charge.
-- Initial Git commit [Linux-2.6.12-rc2](https://github.com/torvalds/linux/commit/1da177e4c3f41524e886b7f1b8a0c1fc7321cac2) April 16, 2005
-- Patches are approved by kernel module subcommitees
-- BDFL = [Linus Torvalds](http://en.wikipedia.org/wiki/Linus_Torvalds)
+---
 
-## Community Participation
+- What have been some of the major bugs/problems/issues that have arisen during development? Who is responsible for quality control and bug repair?
+- How is the project's participation trending and why?
+- In your opinion, does the project pass "The Raptor Test?" (i.e. Would the project survive if the BDFL, or most active contributor were eaten by a Velociraptor?) Why or why not?
+- In your opinion, would the project survive if the core team, or most active 20% of contributors, were hit by a bus? Why or why not?
 
-- Participation is increasing: [YoTLD](http://www.zdnet.com/article/linus-torvalds-still-wants-the-linux-desktop/)
-- Passes Raptor Test (Board of Directors, set process to replace)
-- Passes Bus Test (with due chaos)
-- [kernelnewbies.org](http://kernelnewbies.org/)
+---
+
+- Does the project have an official "on-boarding" process in place?  (new contributor guides, quickstarts, communication leads who focus specifically on newbies, etc...)
+- Does the project have Documentation available? Is it extensive?  Does it include code examples?
+- If you were going to contribute to this project, but ran into trouble or hit blockers, who would you contact, and how?
+
+---
+
+- Based on these answers, how would you describe the decision making structure/process of this group?  Is it hierarchical, consensus building, ruled by a small group, barely contained chaos, or ruled by a single or pair of individuals?
+- Is this the kind of structure you would enjoy working in? Why, or why not?
+
 
 # Technology/Product
 
