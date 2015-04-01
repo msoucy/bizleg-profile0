@@ -16,32 +16,40 @@ How did you/your group decide on and agree?
 
 ---
 
-- Is the subject of your profile a corporate entity?
-- What type?
-- When was it founded?
+- Texas Instruments is a Publically Trading Corporation
+  - Originally founded as Geophysical Service Incorporated (1930)
+  - Founded as Texas Instruments (1951)
 
 ---
 
-- By whom?
-- Original founder(s) still active?
+- GSI Founders:
+    * John Clarence Karcher
+    * Eugene McDermott
+- TI Founders:
+    * Cecil H. Green
+    * J. Erik Jonsson
+    * Eugene McDermott
+    * Patrick E. Haggerly
+- All the founders are dead
 
 ---
 
-- Publicly Traded? Since when? Initial Stock Price? Current stock price?
-- Has the company made any acquisitions? If yes, which companies, and what were their core products?
-- Has the company made any investments in other companies? If yes, which ones.
+- IPO: ![Too old, probably $50 Dino Dollars](http://www.printablekidsplaymoneytemplates.com/user/image/dino-50-dollars.jpg)
+- Current Price $56.535
+- [Lots of acquisitions](http://www.ti.com/corp/docs/investor/compinfo/acquisitions.shtml)
+- TI Invests more than $80M in [University Research Projects](http://www.ti.com/corp/docs/innovation/research-development/research-collaborations.html)
 
 ---
 
-- Number of Employees?
-- Where is HQ?
-- Does it have any other offices or locations?
+- 34,759 Employees as of 2012
+- HQ in Dallas Texas
+- [Locations Worldwide](http://careers.ti.com/content/locations)
 
 ---
 
-- Website?
-- Wikipedia?
-- Does your organization file any annual reports? Please include links to any relevant documents (i.e. 990, Annual Report, Year in Review, etc...)
+- [ti.com](http://ti.com)
+- [Texas Instruments Wikipedia](http://en.wikipedia.org/wiki/Texas_Instruments)
+- [TI Annual Reports](http://investor.ti.com/fininfo.cfm)
 
 
 # Communications
