@@ -103,23 +103,9 @@ It's a really cool company that has lots of potential for helping people get rea
 	- Uses upstream changes, but non-upstream contributions must be BeagleBone-specific
 - Hierarchical, one component of mainline Linux development
 
-
-# Technology/Product
-
-## Beaglebone Boards
-
-- Beagleboardorg has created several "boards" that are typically used in embedded Linux applications.
-- Their current most popular board is the BeagleBone Black which is based off of an ARM chipset and runs Linux.
-- The BeagleBone Black can be expanded by things called "Capes" which are attachments that can provide various additional functionality.
-- Their older boards are the BeagleBoard, Beagleboard XM, and the BeagleBone.
-- Over the years due to embedded technology getting better, their products have gotten cheaper and more powerful.
-
 ## Callaway Coefficient of Fail
 
 - Hard to apply to OSHW projects as much of the code written specifically for the project are spread throughout forks of other projects.
-
----
-
 - Source Control
 	- Public (Github +0)
 	- Webviewer (Github +0)
@@ -137,4 +123,13 @@ It's a really cool company that has lots of potential for helping people get rea
 - The GitHub organization only has 4 people on it. Fail.
 
 
+# Technology/Product
+
+## Beaglebone Boards
+
+- Beagleboardorg has created several "boards" that are typically used in embedded Linux applications.
+- Their current most popular board is the BeagleBone Black which is based off of an ARM chipset and runs Linux.
+- The BeagleBone Black can be expanded by things called "Capes" which are attachments that can provide various additional functionality.
+- Their older boards are the BeagleBoard, Beagleboard XM, and the BeagleBone.
+- Over the years due to embedded technology getting better, their products have gotten cheaper and more powerful.
 
