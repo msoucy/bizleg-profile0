@@ -117,3 +117,24 @@ Your subject likely runs or contributes to one or more Open Source products or p
 - The BeagleBone Black can be expanded by things called “Capes” which are attachments that can provide various additional functionality.
 - Their older boards are the BeagleBoard, Beagleboard XM, and the BeagleBone.
 - Over the years due to embedded technology getting better, their products have gotten cheaper and more powerful.
+
+## Callaway Coefficient of Fail
+
+- Size
+
+---
+
+- Source Control
+	- Public (Github +0)
+	- Webviewer (Github +0)
+	- Source control tool (Git +0)
+
+---
+
+- Building from Source
+
+---
+
+- Communication
+	- Announce releases (Newsletter, Github +0)
+
