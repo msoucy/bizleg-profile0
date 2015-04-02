@@ -7,10 +7,8 @@
 
 ## Rationale
 
-There are **so** many subjects you could choose to profile, so why did you choose this one?
-What drew you into wanting to know more about the organization?
-How did you/your group decide on and agree?
-
+We chose the Beaglebone organization as lots of us have used either one of their products or a similar product like the Raspberry Pi.
+It's a really cool company that has lots of potential for helping people get really cool embedded projects off the ground.
 
 # Organizational Details
 
@@ -80,8 +78,6 @@ How did you/your group decide on and agree?
 
 # Community Architecture
 
-Your subject likely runs or contributes to one or more Open Source products or projects. Choose one (or more) of these and answer the following questions:
-
 ---
 
 - irc://irc.freenode.net/#beagle
@@ -112,8 +108,8 @@ Your subject likely runs or contributes to one or more Open Source products or p
 
 ## Beaglebone Boards
 
-- Beagleboardorg has created several “boards” that are typically used in embedded Linux applications.
+- Beagleboardorg has created several "boards" that are typically used in embedded Linux applications.
 - Their current most popular board is the BeagleBone Black which is based off of an ARM chipset and runs Linux.
-- The BeagleBone Black can be expanded by things called “Capes” which are attachments that can provide various additional functionality.
+- The BeagleBone Black can be expanded by things called "Capes" which are attachments that can provide various additional functionality.
 - Their older boards are the BeagleBoard, Beagleboard XM, and the BeagleBone.
 - Over the years due to embedded technology getting better, their products have gotten cheaper and more powerful.
