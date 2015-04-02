@@ -113,3 +113,28 @@ It's a really cool company that has lots of potential for helping people get rea
 - The BeagleBone Black can be expanded by things called "Capes" which are attachments that can provide various additional functionality.
 - Their older boards are the BeagleBoard, Beagleboard XM, and the BeagleBone.
 - Over the years due to embedded technology getting better, their products have gotten cheaper and more powerful.
+
+## Callaway Coefficient of Fail
+
+- Hard to apply to OSHW projects as much of the code written specifically for the project are spread throughout forks of other projects.
+
+---
+
+- Source Control
+	- Public (Github +0)
+	- Webviewer (Github +0)
+	- Source control tool (Git +0)
+
+---
+
+- Communication
+	- Announce releases (Newsletter, Github +0)
+	- Bug tracker (Github +0)
+	- Website (beaglebone.org +0)
+
+## Bus Test
+
+- The GitHub organization only has 4 people on it. Fail.
+
+
+
