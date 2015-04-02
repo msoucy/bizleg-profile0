@@ -120,7 +120,7 @@ Your subject likely runs or contributes to one or more Open Source products or p
 
 ## Callaway Coefficient of Fail
 
-- Size
+- Hard to apply to OSHW projects as much of the code written specifically for the project are spread throughout forks of other projects.
 
 ---
 
@@ -131,10 +131,14 @@ Your subject likely runs or contributes to one or more Open Source products or p
 
 ---
 
-- Building from Source
-
----
-
 - Communication
 	- Announce releases (Newsletter, Github +0)
+	- Bug tracker (Github +0)
+	- Website (beaglebone.org +0)
+
+## Bus Test
+
+- The GitHub organization only has 4 people on it. Fail.
+
+
 
