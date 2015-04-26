@@ -2,7 +2,7 @@
 % [Matt Soucy](mailto:msoucy@csh.rit.edu)
   [Liam Middlebrook](mailto:liammiddlebrook@gmail.com)
   [Julien Eid](mailto:jeid@csh.rit.edu)
-  [Aaron Herting](mailto:adh2380@rit.edu)
+  [Alex Mack](mailto:amm4108@rit.edu)
 
 
 ## Rationale
