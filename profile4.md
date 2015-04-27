@@ -51,20 +51,18 @@ How did you/your group decide on and agree?
 
 ## Social media for COMPANY
 
-- Does your subject participate in social media?
-- If yes, please list a URL for each account, and reach within that community.
-- Example:
-	- [Twitter: @RedHatNews](https://twitter.com/redhatnews) - 61.9K Followers.
+- [IRC] (Freenode, #sugar)
+- [Twitter: @sugarlabs](https://twitter.com/sugarlabs) - 287 Followers.
 
 ## Communications channels for COMPANY
 
-- What communication channels does your subject use to reach their public?
-- Briefly describe and include a URL for each.
+- Sugar has a press page that shows wherever the company or the product is mentioned in the news.
+    - <http://sugarlabs.org/index.php?template=press>
 
 ## COMPANY Conference Participation
 
-- Does your subject organize or participate in any conferences?
-- If so, list them here, and provide links to any relevant sessions, keynotes, or content.
+- Sugar does not host any conferences but they do maintain a page where they show a bunch of talks by various people in the Sugar community.
+    - <http://wiki.sugarlabs.org/go/Marketing_Team/Presentations>
 
 # Community Architecture
 
@@ -114,13 +112,7 @@ Your subject likely runs or contributes to one or more Open Source products or p
 
 # Technology/Product
 
-Section adapted from [EFF](EFF) [Worksheet](http://www.teachingcopyright.org/handout/technology-history-worksheet)
-
----
-
-- Who invented, created, or sponsored the technology?
-- What is the technology designed to do? How is it used?
-- Who would benefit from using this technology?
-- What kinds of companies or organizations (stakeholders) might have been concerned about the development of this technology? Why?
-- Does/Did an aspect of copyright law play a role in controversies about the technology? How?
-
+- Sugar Labs helped produce the operating system and environment that runs on the One Laptop Per Child laptops.
+- Sugar OS is based off of Fedora and includes the “Sugar software.”
+- Sugar software is typically written in Python which is then turned into a Sugar activity that can be installed on OLPC laptops.
+- Also provide “Sugar-on-a-stick” which is a live USB based off Fedora that can be booted on any computer to use the Sugar environment.
