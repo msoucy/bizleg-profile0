@@ -39,13 +39,13 @@ How did you/your group decide on and agree?
 
 # Communications
 
-## Social media for COMPANY
+## Social media for BountySource
 
 - [IRC](FreeNode, #bountysource)
 - [Twitter](https://twitter.com/Bountysource): 2K Followers
 - [Facebook](https://www.facebook.com/BountySource): 350 Likes.
 
-## Communications channels for COMPANY
+## Communications channels for BountySource
 
 - Bountysource has a blog where they show off top developers and new announcements.
     - <http://blog.bountysource.com/>
