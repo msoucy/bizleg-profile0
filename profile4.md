@@ -49,17 +49,17 @@ How did you/your group decide on and agree?
 
 # Communications
 
-## Social media for COMPANY
+## Social media for Sugar Labs
 
 - [IRC] (Freenode, #sugar)
 - [Twitter: @sugarlabs](https://twitter.com/sugarlabs) - 287 Followers.
 
-## Communications channels for COMPANY
+## Communications channels for Sugar Labs
 
 - Sugar has a press page that shows wherever the company or the product is mentioned in the news.
     - <http://sugarlabs.org/index.php?template=press>
 
-## COMPANY Conference Participation
+## Sugar Labs Conference Participation
 
 - Sugar does not host any conferences but they do maintain a page where they show a bunch of talks by various people in the Sugar community.
     - <http://wiki.sugarlabs.org/go/Marketing_Team/Presentations>
@@ -71,43 +71,38 @@ Your subject likely runs or contributes to one or more Open Source products or p
 ---
 
 - If applicable, list and provide links to:
-	- The project's IRC Channel
-	- Source Code repository
-	- Mail list archive
-	- Documentation
-	- Other communication channels
-	- Project Website and/or Blog
+	- irc://irc.freenode.net#sugar or irc://irc.freenode.net#fedora-olpc
+	- [Source Code repository](https://github.com/sugarlabs/sugar)
+	- [Mail list - Developers](http://lists.sugarlabs.org/listinfo/sugar-devel)
+	- [Documentation](http://wiki.sugarlabs.org/go/Welcome_to_the_Sugar_Labs_wiki)
+    - [Sugar Labs website](https://www.sugarlabs.org/)
+	- [Blog](http://planet.sugarlabs.org/)
 
 ---
 
-- Describe the software project, its purpose and goals.
-- Give brief history of the project. When was the Initial Commit? The latest commit?
+- Sugar is the core component of a worldwide effort to provide every child with equal opportunity for a quality education.
+- The first commit was Apr 16, 2006. The latest commit was Apr 28, 2015.
 
 ---
 
-- Who approves patches? How many people?
-- Who has commit access, or has had patches accepted?  How many total?
-- Has there been any turnover in the Core Team? (i.e. has the top 20% of contributors stayed the same over time? If not, how has it changed?)
-- Does the project have a BDFL, or Lead Developer? (BDFL == Benevolent Dictator for Life)
-- Are the front and back end developers the same people? What is the proportion of each?
+- Each core module and activity has it's own project lead and co-maintainers.
+- There are 62 people who have had commits accepted into the main project.
+- The core commiters have changed over time. At the beggining there were 3 major commiters who haven't added anything in awhile.
+- Daniel Varvaez is the Lead maintainer for the core sugar project.
+- There are different people working on the frontend and the backend.
 
 ---
 
-- What have been some of the major bugs/problems/issues that have arisen during development? Who is responsible for quality control and bug repair?
-- How is the project's participation trending and why?
-- In your opinion, does the project pass "The Raptor Test?" (i.e. Would the project survive if the BDFL, or most active contributor were eaten by a Velociraptor?) Why or why not?
-- In your opinion, would the project survive if the core team, or most active 20% of contributors, were hit by a bus? Why or why not?
+- Participation seems to be trending down recently but there was a big push between October 2014 and January 2015.
+- The project would pass the raptor test as there are multiple people running each team.
+- I don't think this project would pass the bus test. The documentations isn't as detailed as it could be.
 
 ---
 
-- Does the project have an official "on-boarding" process in place?  (new contributor guides, quickstarts, communication leads who focus specifically on newbies, etc...)
-- Does the project have Documentation available? Is it extensive?  Does it include code examples?
-- If you were going to contribute to this project, but ran into trouble or hit blockers, who would you contact, and how?
-
----
-
-- Based on these answers, how would you describe the decision making structure/process of this group?  Is it hierarchical, consensus building, ruled by a small group, barely contained chaos, or ruled by a single or pair of individuals?
-- Is this the kind of structure you would enjoy working in? Why, or why not?
+- Contributing to both the main process and adding new activities has a well documented getting started guide.
+- The documentation is well broken up so you only need to look at the things for the particular thing you're doing, such as the main project or an activiy.
+- I would contact the maintainers for whichever porition of the project I was working on, either by email or hopping into IRC.
+- Each individual portion of Sugar has it's own ruling group.
 
 
 # Technology/Product
