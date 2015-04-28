@@ -96,7 +96,9 @@ projects they love by creating/collecting bounties and pledging to fundraisers."
 - Currently it is ruled by a pair of individuals, David Rappo and Warren Konkel.
 
 
-## Technology/Product
+# Technology/Product
+
+---
 
 - Originally started for only open source bounties. Initially hosted Subversion repos for projects. Development on this version stopped in 2008.
 - Reopened in 2012 to work with GitHubs API’s in order to reach a wider audience. Allows Bitcoin, Paypal, and credit card for funding.
