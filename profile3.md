@@ -63,43 +63,35 @@ Your subject likely runs or contributes to one or more Open Source products or p
 ---
 
 - If applicable, list and provide links to:
-	- The project's IRC Channel
-	- Source Code repository
+	- #bountysource on Freenode
+	- [Source Code](https://github.com/bountysource/frontend/)
 	- Mail list archive
-	- Documentation
-	- Other communication channels
-	- Project Website and/or Blog
+	- [Documentation](https://github.com/bountysource/frontend/wiki/)
+	- [Email](support@bountysource.com)
+	- [Blog](http://blog.bountysource.com/)
 
 ---
 
-- Describe the software project, its purpose and goals.
-- Give brief history of the project. When was the Initial Commit? The latest commit?
+- "Bountysource is the funding platform for open-source software. Users can improve the open-source 
+projects they love by creating/collecting bounties and pledging to fundraisers."
+- First commit was Aug 26, 2012. Latest commit was Apr 28, 2015
 
 ---
 
-- Who approves patches? How many people?
-- Who has commit access, or has had patches accepted?  How many total?
-- Has there been any turnover in the Core Team? (i.e. has the top 20% of contributors stayed the same over time? If not, how has it changed?)
-- Does the project have a BDFL, or Lead Developer? (BDFL == Benevolent Dictator for Life)
-- Are the front and back end developers the same people? What is the proportion of each?
+- There have been 30 contributors to this project.
+- The core team seems to have stayed fairly up until recently.
+- Cory Boyd is the lead developer for this project.
 
 ---
 
-- What have been some of the major bugs/problems/issues that have arisen during development? Who is responsible for quality control and bug repair?
-- How is the project's participation trending and why?
-- In your opinion, does the project pass "The Raptor Test?" (i.e. Would the project survive if the BDFL, or most active contributor were eaten by a Velociraptor?) Why or why not?
-- In your opinion, would the project survive if the core team, or most active 20% of contributors, were hit by a bus? Why or why not?
+- All participation ended for almost 6 months, and is only just now starting to pick back up.
+- The project would most likely survive but wouldn't be updated for awhile if Cory were eaten by a raptor, or if the core team was hit by a bus.
 
 ---
 
-- Does the project have an official "on-boarding" process in place?  (new contributor guides, quickstarts, communication leads who focus specifically on newbies, etc...)
-- Does the project have Documentation available? Is it extensive?  Does it include code examples?
-- If you were going to contribute to this project, but ran into trouble or hit blockers, who would you contact, and how?
-
----
-
-- Based on these answers, how would you describe the decision making structure/process of this group?  Is it hierarchical, consensus building, ruled by a small group, barely contained chaos, or ruled by a single or pair of individuals?
-- Is this the kind of structure you would enjoy working in? Why, or why not?
+- There doesn't seem to be any straight on-boarding process.
+- The project has some documentation but nothing to help a newbie jump in.
+- Currently it is ruled by a pair of individuals, David Rappo and Warren Konkel.
 
 
 # Technology/Product
