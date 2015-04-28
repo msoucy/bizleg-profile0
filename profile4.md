@@ -105,7 +105,7 @@ Your subject likely runs or contributes to one or more Open Source products or p
 - Each individual portion of Sugar has it's own ruling group.
 
 
-# Technology/Product
+## Technology/Product
 
 - Sugar Labs helped produce the operating system and environment that runs on the One Laptop Per Child laptops.
 - Sugar OS is based off of Fedora and includes the “Sugar software.”
