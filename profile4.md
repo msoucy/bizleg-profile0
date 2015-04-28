@@ -105,7 +105,7 @@ Your subject likely runs or contributes to one or more Open Source products or p
 - Each individual portion of Sugar has it's own ruling group.
 
 
-## Technology/Product
+# Technology/Product
 
 ---
 
